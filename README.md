@@ -2,7 +2,7 @@
 
 The Capstone of Education is a Computer Graphics Project that illustrates the issues within our current educational system and highlights how we are still far from achieving a truly smart world.
 
-<img width="1395" alt="The Epilogue of Education by Raja Rajan A." src="https://cloud.githubusercontent.com/assets/1134738/25937234/7dddde90-3648-11e7-825a-8da719b7fff4.png">
+![intro](https://github.com/sanjidaaaziz/The-Capstone-of-Education-A-Reflective-Clouser/assets/83781242/ad80b824-da73-47e8-a935-ae933fdebbe7)
 
 ## Scenes serial
 1. Introduction 
